@@ -6,58 +6,43 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Problema
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
->
-> **Orientações**:
->
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+A transição para a independência financeira é um dos maiores desafios para jovens e jovens adultos. Ao ingressarem no mercado de trabalho ou administrarem suas primeiras rendas, muitos se deparam com a necessidade de planejar o futuro. No entanto, o modelo tradicional de gestão financeira — que exige o microgerenciamento diário de despesas e a anotação manual de cada centavo gasto — gera alto atrito cognitivo. Esse atrito resulta em frustração e no abandono rápido das ferramentas de controle. Consequentemente, o indivíduo perde a previsibilidade do próprio orçamento, cede a compras por impulso e fica sem clareza matemática sobre como essas pequenas decisões diárias atrasam a conquista de seus sonhos de longo prazo.
+
+**
 
 ## Objetivos
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
->
-> **Orientações**:
->
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O objetivo geral deste projeto é desenvolver um software web de planejamento financeiro orientado a metas, capaz de auxiliar os usuários a gerenciarem seu dinheiro com baixo atrito e foco em resultados futuros.
+
+Como objetivos específicos, destacam-se:
+
+- Desenvolver um motor de simulação de cenários (Simulador "E se?") que calcule e demonstre, em tempo real, o impacto de decisões financeiras imediatas no prazo de conclusão de um objetivo de longo prazo.
+
+- Projetar uma interface de acompanhamento baseada no conceito de "Saldo Livre", eliminando a necessidade de categorização exaustiva diária.
+
+- Integrar recursos de educação financeira contextual, emitindo alertas inteligentes no momento em que o comportamento do usuário comprometer suas metas.
+
+**
 
 ## Justificativa
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+** 
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
->
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Orientações**:
->
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A motivação para este projeto surgiu da observação de que a maioria das ferramentas financeiras atua como "livros-caixa" retroativos, punindo o usuário por gastos passados em vez de orientá-lo para o futuro. Durante a fase de pesquisa, entrevistas revelaram perfis que, apesar de terem acesso a aplicativos bancários modernos, falham em manter a disciplina devido à fricção das interfaces e à ausência de vínculo direto entre o dinheiro economizado e o sonho desejado. A solução justifica-se por inverter essa lógica: ao reduzir a barreira de entrada e focar no tempo restante para alcançar um objetivo, a aplicação reduz a ansiedade financeira e promove a mudança de comportamento de forma prática e imediata.
+
+**
 
 ## Público-Alvo
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva quais são as pessoas que usarão a sua aplicação indicando os diferentes perfis. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
->
-> **Orientações**:
->
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O público-alvo principal é composto por jovens adultos (18 a 30 anos), abrangendo universitários, estagiários e profissionais em início de carreira. Esse grupo possui alta familiaridade com tecnologias web e mobile, utilizando smartphones para a maioria de suas tarefas diárias. Apesar da facilidade tecnológica, carecem de educação financeira formal e disciplina orçamentária. São usuários que possuem alguma fonte de renda, desejam adquirir bens de alto valor (como eletrônicos, veículos ou viagens) ou montar uma reserva financeira, mas que possuem histórico de frustração e abandono ao tentar utilizar planilhas complexas ou aplicativos de finanças tradicionais.
+
+**
 
 ---
 
