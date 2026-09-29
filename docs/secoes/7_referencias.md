@@ -2,19 +2,10 @@
 
 # Referências
 
-As referências utilizadas no trabalho foram:
+As referências utilizadas no trabalho ate o momento foram:
 
-- SOBRENOME, Nome do autor. Título da obra. 8. ed. Cidade: Editora, 2000. 287 p ⚠️ EXEMPLO ⚠️
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
->
-> **Orientações**:
->
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
-
----
+* ATLASSIAN. **O que é Scrum?**. Guia Ágil da Atlassian. Disponível em: <https://www.atlassian.com/br/agile/scrum>. Acesso em: set. 2026.
+* GITHUB. **About Projects**. GitHub Docs. Disponível em: <https://docs.github.com/pt/issues/planning-and-tracking-with-projects>. Acesso em: set. 2026.
+* INTERACTION DESIGN FOUNDATION. **What are User Flows?**. Disponível em: <https://www.interaction-design.org/literature/topics/user-flows>. Acesso em: set. 2026.
 
 [⬅ Anterior: Solução Implementada](6_solucao-implementada.md) | [⬅ Voltar ao índice](../README.md)
