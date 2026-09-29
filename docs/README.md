@@ -2,12 +2,15 @@
 
 Informações básicas do projeto.
 
-- **Projeto:** [NOME DO PROJETO]
-- **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
+- **Projeto:** GranaUP
+- **Repositório GitHub:** https://github.com/alvespcrl/GranaUP-TI2
 - **Membros da equipe:**
-  - [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
-  - [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
-  - [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
+  - Arthur de Carvalho Costa - https://github.com/arthurcosta7
+  - Diego Cheib Hirsch - https://github.com/DiegoCheib
+  - Fernando Gonçalves Oliveira Costa - https://github.com/FernandoCosta11
+  - Gustavo Alves Costa Sousa - https://github.com/alvespcrl
+  - Matheus Oliveira Costa Torres - Matheus-77
+  - Matheus Tahan Sab - Matheus-Tahan-Sab
 
 A documentação do projeto é estruturada da seguinte forma:
 
@@ -28,7 +31,7 @@ Relação de ferramentas empregadas pelo grupo durante o projeto.
 
 | Ambiente                    | Plataforma | Link de acesso                                |
 | --------------------------- | ---------- | --------------------------------------------- |
-| Processo de Design Thinking | Miro       | https://miro.com/XXXXXXX ⚠️ EXEMPLO ⚠️        |
+| Processo de Design Thinking | Miro       | https://miro.com/app/board/uXjVHx4XkyQ=/      |
 | Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️ |
 | Protótipo Interativo        | MarvelApp  | https://marvelapp.com/XXXXXXX ⚠️ EXEMPLO ⚠️   |
 |                             |            |                                               |
