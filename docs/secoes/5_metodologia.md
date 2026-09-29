@@ -2,31 +2,49 @@
 
 # Metodologia
 
-Detalhes sobre a organização do grupo e o ferramental empregado.
+A metodologia do projeto baseia-se na integração de práticas do Design Thinking para a concepção da solução e no framework ágil Scrum para o desenvolvimento e gerenciamento das entregas, garantindo um processo iterativo e centrado no usuário.
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível. Inclua itens como: (1) Editor de código, (2) )ferramentas de comunicação, (3) )ferramentas de diagramação, (4) )plataformas de hospedagem, entre outras.
+## Ferramentas Empregadas
+
+As ferramentas utilizadas no desenvolvimento do projeto foram selecionadas para otimizar a colaboração remota, a organização visual e a padronização do código:
+
+**Editor de Código:** Visual Studio Code (VS Code). Escolhido por sua leveza, vasta biblioteca de extensões e integração nativa com o Git, facilitando o desenvolvimento simultâneo do front-end e do back-end.
+
+**Ferramentas de Comunicação:** Discord e WhatsApp. O Discord foi utilizado para reuniões de planejamento (Plannings) e revisão (Reviews), enquanto o WhatsApp serviu para alinhamentos rápidos e resolução de bloqueios diários.
+
+**Ferramentas de Diagramação e Design:** 
+
+**Miro:** Utilizado nas etapas iniciais de Design Thinking para a criação da Matriz CSD, Mapas de Empatia e priorização de ideias, devido à sua interface de quadro branco colaborativo.
+
+**Figma:** Adotado para a criação do User Flow, Wireframes e do Protótipo Interativo de alta fidelidade.
+
+**Plataforma de Hospedagem e Versionamento:** GitHub. Utilizado para a gestão de configuração do projeto, controle de versões do código-fonte (Git) e hospedagem da documentação estruturada em Markdown.
 
 ## Gerenciamento do Projeto
 
-Divisão de papéis no grupo e apresentação da estrutura da ferramenta de controle de tarefas (Kanban).
+O processo de trabalho da equipe foi fundamentado em metodologias ágeis, adaptando o framework Scrum para o contexto e cronograma acadêmico. O ciclo de vida do projeto iniciou-se com a fase de *Product Discovery* (baseada em Design Thinking), onde as dores dos usuários foram mapeadas, resultando em Histórias de Usuário claras que alimentaram o Backlog do Produto. O desenvolvimento foi dividido em *Sprints* focadas em entregas incrementais do Minimundo e das interfaces.
 
-![Exemplo de Kanban](../images/exemplo-kanban.png)
+### Divisão de Papéis no Grupo
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nesta parte do documento, você deve apresentar o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
->
-> **Orientações**:
->
-> - [Sobre Projects - GitHub Docs](https://docs.github.com/pt/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
-> - [Gestão de projetos com GitHub | balta.io](https://balta.io/blog/gestao-de-projetos-com-github)
-> - [(460) GitHub Projects - YouTube](https://www.youtube.com/playlist?list=PLiO7XHcmTsldZR93nkTFmmWbCEVF_8F5H)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+A equipe foi estruturada de forma multidisciplinar para cobrir todas as fases de engenharia e design. Os papéis foram distribuídos da seguinte maneira:
+
+* **Scrum Master:** Responsável por guiar os ritos ágeis, remover impedimentos técnicos, garantir a atualização do quadro de tarefas e manter a documentação coesa. *(Gustavo, Matheus Oliviera)*
+  
+* **Product Owner / UI Designer:** Responsável por validar se as entregas atendem aos requisitos das personas mapeadas (Lucas, Rafael e Mariana) e pela prototipagem das interfaces. *(Matheus Tahan, Arthur)*
+  
+* **Desenvolvedores:** Encarregados da codificação, modelagem do banco de dados (baseada no Minimundo) e implementação do motor de simulação de cenários. *(Diego Cheib, Fernando)*
+
+### Controle de Tarefas (Kanban)
+
+Para o acompanhamento do andamento do projeto e a execução das tarefas, a equipe utilizou a ferramenta de controle visual Kanban através do **[GitHub Projects]**. O quadro foi estruturado nas seguintes colunas para refletir o status de desenvolvimento da solução:
+
+* **Backlog:** Repositório de todos os requisitos funcionais, não funcionais e ideias priorizadas.
+* **Ready (A Fazer):** Tarefas selecionadas e estimadas para a Sprint atual.
+* **In progress (Em Andamento):** Atividades que estão ativamente em desenvolvimento pela equipe.
+* **In review (Revisão):** Etapa de validação de código (*Code Review*) e testes de usabilidade no protótipo.
+* **Done (Concluído):** Funcionalidades ou documentações totalmente finalizadas e aprovadas.
+
+ **Acesso ao Quadro Kanban:** [https://github.com/users/alvespcrl/projects/1]
 
 ---
 
