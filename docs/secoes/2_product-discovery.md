@@ -4,37 +4,66 @@
 
 ## Etapa de Entendimento
 
-**✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA ✳️✳️✳️**
+**
+## MATRIZ CSD
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
->
-> - **Matriz CSD**: também conhecida por Matriz de Alinhamento, é uma ferramenta utilizada no Design Thinking para organizar informações e facilitar o processo de tomada de decisão e solução de problemas;
-> - **Mapa de stakeholders**: ferramenta que nos permite compreender o grupo de pessoas e entidades que devemos estudar e conversar para entender mais sobre o problema
-> - **Entrevistas qualitativas**: série de entrevistas qualitativas para validar suposições e solucionar as dúvidas com as principais pessoas envolvidas;
-> - **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
+<img width="1411" height="671" alt="matrizCSD" src="https://github.com/user-attachments/assets/c886beaf-be87-4fed-a169-b155ac82cc61" />
+
+## MAPA DE STAKEHOLDER
+
+<img width="690" height="711" alt="stakeholder" src="https://github.com/user-attachments/assets/f0a18827-aa7d-4479-91bb-e43b9724a5bd" />
+
+## ENTREVISTAS QUALITATIVAS
+
+<img width="712" height="570" alt="entrevista" src="https://github.com/user-attachments/assets/68e66f9e-2878-4478-98e9-306b1f11526f" />
+
+## HIGHLIGHTS DE PESQUISA
+
+<img width="698" height="322" alt="highlights" src="https://github.com/user-attachments/assets/aa1cb1f0-670f-4d74-9f4e-26988a649587" />
+
+**
+
+---
 
 ## Etapa de Definição
 
-### Personas
+### Personas e Mapa de Empatia
 
-**✳️✳️✳️ APRESENTE OS DIAGRAMAS DE PERSONAS E MAPA DE EMPATIA ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que você deve ser enumerar e descrever precisamente e de forma personalizada todos os principais envolvidos com a solução almeja.
->
-> **Orientações**:
->
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Criar personas (Hotmart)](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/) > **Exemplo de Persona**
->
-> ![Exemplo de Persona](../images/exemplo-persona.png)
->
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
+**Persona 1: Lucas**
+
+ **Perfil:** 24 anos, analista júnior. Tem renda estável e consegue poupar, mas não sabe otimizar o dinheiro para o futuro.
+
+  <img width="553" height="752" alt="persona1" src="https://github.com/user-attachments/assets/bee2b33d-7823-467c-bf37-2a53901bb246" />
+
+**Mapa de Empatia:**
+
+  <img width="1253" height="682" alt="image" src="https://github.com/user-attachments/assets/aef31b9e-fbc7-4a5d-ab92-f39dd1bf8e43" />
+
+  ---
+
+**Persona 2: Rafael**
+
+**Perfil:** 22 anos, estagiário/freelancer. Ajuda em casa e sofre com impulsividade em pequenos gastos.
+  
+<img width="577" height="787" alt="persona2" src="https://github.com/user-attachments/assets/95871b2a-444a-411e-b9f4-f688f3f05512" />
+
+**Mapa de Empatia:**
+
+  <img width="1306" height="718" alt="mapa2" src="https://github.com/user-attachments/assets/b6f5d871-e96d-41fd-939b-35ce527625cd" />
+
+  ---
+
+**Persona 3: Mariana Costa**
+
+**Perfil:** 27 anos, analista de atendimento. Mora sozinha e precisa de praticidade na rotina corrida.
+
+<img width="1443" height="1082" alt="persona3" src="https://github.com/user-attachments/assets/628240b9-5c5a-43f1-bedc-6a78a44d0c0b" />
+
+**Mapa de Empatia:**
+
+<img width="1666" height="937" alt="mapa3" src="https://github.com/user-attachments/assets/362e620c-b7b5-405a-9794-d8a03200ba4e" />
+
 
 ---
 
