@@ -9,8 +9,8 @@ Informações básicas do projeto.
   - Diego Cheib Hirsch - https://github.com/DiegoCheib
   - Fernando Gonçalves Oliveira Costa - https://github.com/FernandoCosta11
   - Gustavo Alves Costa Sousa - https://github.com/alvespcrl
-  - Matheus Oliveira Costa Torres - Matheus-77
-  - Matheus Tahan Sab - Matheus-Tahan-Sab
+  - Matheus Oliveira Costa Torres - https://github.com/Matheus-77
+  - Matheus Tahan Sab - https://github.com/Matheus-Tahan-Sab
 
 A documentação do projeto é estruturada da seguinte forma:
 
