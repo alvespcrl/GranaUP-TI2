@@ -29,9 +29,9 @@ A documentação do projeto é estruturada da seguinte forma:
 
 Relação de ferramentas empregadas pelo grupo durante o projeto.
 
-| Ambiente                    | Plataforma | Link de acesso                                                                                                                                |
-| --------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Processo de Design Thinking | Miro       | https://miro.com/app/board/uXjVHx4XkyQ=/                                                                                                      |
-| Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️                                                                                                 |
-| Protótipo Interativo        | figma.     | https://www.figma.com/design/UTIuqKThOG7pkuZxnWWyUN/GranaUP-%25E2%2580%2594-Prot%25C3%25B3tipo-Interativo?node-id=6-600&t=IMANygpBO1cgQrBd-0  |
+| Ambiente                    | Plataforma | Link de acesso                                                                                               |
+| --------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------ |
+| Processo de Design Thinking | Miro       | https://miro.com/app/board/uXjVHx4XkyQ=/                                                                     |
+| Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️                                                                |
+| Protótipo Interativo        | figma.     | https://www.figma.com/board/RW1fNYqK8m0lLYT3X9bt91/Sem-t%25C3%25ADtulo?node-id=0-1&p=f&t=VctyQ745GcFrJACl-0  |
 |                             |            |                                               |
